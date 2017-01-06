@@ -24,4 +24,4 @@ It is indented to demonstrate the structure but not in xml format.
 I realised that I have not included image links and there are other improvements I could have made with more time:
 e.g. config, unit testing, ant build, output format
 
-Although it is not complete I hope there is enough content for the assignment.
+Although it is not complete I hope you can run it and that there is enough content for the assignment.
